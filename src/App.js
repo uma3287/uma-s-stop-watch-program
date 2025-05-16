@@ -1,13 +1,13 @@
-import logo from './logo.svg';
-import './index.css';
-import Stopwatch from './Component/Stopwatch';
-
+//import logo from './logo.svg';
+import './App.css';
+import Calculator from './Components/Calculator';
+ 
  
 function App() {
   return (
-    <>
-       <Stopwatch/>
-    </>
+     <>
+   <Calculator/>
+     </>
   );
 }
 
